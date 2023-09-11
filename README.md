@@ -11,21 +11,20 @@
 
 ### Обо мне
 
-- 🌱 Изучаю **C#, ASP.NET, Bootstrap**
-- 📝 Являюсь студентом 1-го курса магистратуры
-- 📄 Моё резюме [![Telegram Badge](https://img.shields.io/badge/-Andrey_Tsukanov-darkred?style=flat&&logoColor=white)](https://voronezh.hh.ru/resume/5d50e9edff0c583c8d0039ed1f796856336244)
-- 📫 Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Andrey_Tsukanov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sharpflexer) [![Gmail Badge](https://img.shields.io/badge/-tsukanov.official@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:tsukanov.official@gmail.com)
+- 💻 Изучаю **C#, ASP.NET, Bootstrap**
+- 📖 Являюсь студентом 1-го курса магистратуры
+- 📑 Моё резюме [![Telegram Badge](https://img.shields.io/badge/-hh.ru-darkred?style=flat&&logoColor=white)](https://voronezh.hh.ru/resume/5d50e9edff0c583c8d0039ed1f796856336244)
+- 📧 Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Andrey_Tsukanov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sharpflexer) [![Gmail Badge](https://img.shields.io/badge/-tsukanov.official@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:tsukanov.official@gmail.com)
 
 ### Языки и инструменты
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title="netcore" width="40" height="40"/>                        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"           
-title="git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title="netcore" width="40" height="40">&nbsp;                        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker" width="40" height="40"/>&nbsp;  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 
 ---
 
