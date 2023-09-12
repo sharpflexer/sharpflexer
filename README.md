@@ -42,7 +42,7 @@
       <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=sharpflexer&theme=vision-friendly-dark" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="200px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharpflexer&theme=vision-friendly-dark" />
+      <img height="200px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharpflexer&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
