@@ -11,8 +11,7 @@
 
 ### Обо мне
 
-- 💻 Изучаю **C#, ASP.NET, React**
-- 📖 Являюсь студентом 2-го курса магистратуры
+- 💻 Изучаю **C#, ASP.NET**
 - 📑 Моё резюме [![Telegram Badge](https://img.shields.io/badge/-hh.ru-darkred?style=flat&&logoColor=white)](https://voronezh.hh.ru/resume/5d50e9edff0c583c8d0039ed1f796856336244)
 - 📧 Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Andrey_Tsukanov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sharpflexer) [![Gmail Badge](https://img.shields.io/badge/-tsukanov.official@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:tsukanov.official@gmail.com)
 
